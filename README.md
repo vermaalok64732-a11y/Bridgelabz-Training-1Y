@@ -1,1 +1,4 @@
-# Bridgelabz-Training-1Y
+# This folder contains basic Java programs for practice.
+
+# 
+
